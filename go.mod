@@ -3,7 +3,7 @@ module github.com/tikv/client-go
 go 1.15
 
 require (
-	github.com/coreos/etcd v3.3.25+incompatible
+	github.com/coreos/etcd v3.3.10+incompatible
 	github.com/golang/protobuf v1.3.4
 	github.com/google/btree v1.0.0
 	github.com/google/uuid v1.1.1
