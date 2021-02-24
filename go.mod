@@ -1,4 +1,4 @@
-module github.com/tikv/client-go
+module github.com/ofey404/client-go
 
 go 1.15
 
@@ -20,7 +20,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/tikv/pd v1.1.0-beta.0.20210122094357-c7aac753461a
-	go.etcd.io/etcd v3.3.25+incompatible // indirect
+	go.etcd.io/etcd v3.3.15+incompatible // indirect
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0 // indirect
 	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b // indirect
